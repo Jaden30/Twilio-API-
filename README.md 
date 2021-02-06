@@ -1,0 +1,5 @@
+The first step is to setup a twilio account on twilio.com 
+Next step is pipenv install twilio 
+Then select interpreter using command + shift + palette on mac to select the python interpreter for the app 
+Get the auth_token and the account_id from your twilio account and put it in the config.py then create a .gitignore text and hide the config.py 
+app.py sends message
